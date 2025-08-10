@@ -1,5 +1,6 @@
 # Git Hands-on 1
 
+```bash
 Md Arbaz Salim@DESKTOP-VPU42RD MINGW64 ~/Desktop/Week8_Git/1_Git-HOL/GitDemo
 $ git init
 Initialized empty Git repository in C:/Users/Md Arbaz Salim/Desktop/Week8_Git/1_Git-HOL/GitDemo/.git/
@@ -33,7 +34,7 @@ On branch main
 No commits yet
 
 Untracked files:
-(use "git add <file>..." to include in what will be committed)  
+(use "git add <file>..." to include in what will be committed)
  welcome.txt
 
 nothing added to commit but untracked files present (use "git add" to track)
@@ -67,7 +68,7 @@ remote: Enumerating objects: 10, done.
 remote: Counting objects: 100% (10/10), done.
 remote: Compressing objects: 100% (7/7), done.
 remote: Total 10 (delta 2), reused 4 (delta 0), pack-reused 0 (from 0)
-Unpacking objects: 100% (10/10), 2.05 KiB | 20.00 KiB/s, done.  
+Unpacking objects: 100% (10/10), 2.05 KiB | 20.00 KiB/s, done.
 From https://github.com/Md-Arbaz03/my-demo
 
 - branch main -> FETCH_HEAD
@@ -101,3 +102,4 @@ a9df730..a9a5fa1 main -> main
 
 Md Arbaz Salim@DESKTOP-VPU42RD MINGW64 ~/Desktop/Week8_Git/1_Git-HOL/GitDemo (main)
 $
+```

@@ -1,5 +1,6 @@
 # Git Hands-on 4
 
+```bash
 Md Arbaz Salim@DESKTOP-VPU42RD MINGW64 ~/Desktop/Week8_Git/4_Git-HOL/GitDemo
 $ git init
 Initialized empty Git repository in C:/Users/Md Arbaz Salim/Desktop/Week8_Git/4_Git-HOL/GitDemo/.git/
@@ -86,3 +87,5 @@ $ git log --oneline --graph --decorate --all
 - a8fa374 Initial commit on main
 
 Md Arbaz Salim@DESKTOP-VPU42RD MINGW64 ~/Desktop/Week8_Git/4_Git-HOL/GitDemo (main)
+$
+```

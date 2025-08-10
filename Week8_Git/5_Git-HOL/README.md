@@ -1,5 +1,6 @@
 # Git Hands-on 5
 
+```bash
 Md Arbaz Salim@DESKTOP-VPU42RD MINGW64 ~/Desktop/Week8_Git/5_Git-HOL/GitDemo
 $ git init
 Initialized empty Git repository in C:/Users/Md Arbaz Salim/Desktop/Week8_Git/5_Git-HOL/GitDemo/.git/
@@ -62,11 +63,12 @@ Enumerating objects: 6, done.
 Counting objects: 100% (6/6), done.
 Delta compression using up to 8 threads
 Compressing objects: 100% (3/3), done.
-Writing objects: 100% (5/5), 548 bytes | 274.00 KiB/s, done.  
-Total 5 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)  
+Writing objects: 100% (5/5), 548 bytes | 274.00 KiB/s, done.
+Total 5 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/Md-Arbaz03/my-demo.git
 7a314c7..4e34bcf main -> main
 
 Md Arbaz Salim@DESKTOP-VPU42RD MINGW64 ~/Desktop/Week8_Git/5_Git-HOL/GitDemo (main)
 $
+```

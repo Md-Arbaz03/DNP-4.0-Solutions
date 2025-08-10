@@ -1,5 +1,6 @@
 # Git Hands-on 3
 
+```bash
 Md Arbaz Salim@DESKTOP-VPU42RD MINGW64 ~/Desktop/Week8_Git/3_Git-HOL/GitDemo
 $ git init
 Initialized empty Git repository in C:/Users/Md Arbaz Salim/Desktop/Week8_Git/3_Git-HOL/GitDemo/.git/
@@ -99,3 +100,4 @@ nothing to commit, working tree clean
 
 Md Arbaz Salim@DESKTOP-VPU42RD MINGW64 ~/Desktop/Week8_Git/3_Git-HOL/GitDemo (main)
 $
+```
